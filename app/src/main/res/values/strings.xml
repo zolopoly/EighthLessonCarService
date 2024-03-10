@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EighthLessonCarService</string>
+    <string name="header_one">ПРИЛОЖЕНИЕ АВТОМАСТЕРСКАЯ</string>
+    <string name="header_two">Ремонт и покраска автомобилей\nТехническое обслуживание</string>
+    <string name="message">Рекламный слоган</string>
+</resources>

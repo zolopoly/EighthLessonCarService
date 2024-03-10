@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle"> <!-- форма для разметки-->
+            <solid android:color="#E6EFE9"/> <!-- цвет фона-->
+            <!-- скругление углов-->
+            <corners android:topRightRadius="23dp"
+                android:topLeftRadius="23dp"
+                android:bottomRightRadius="23dp"/>
+        </shape>
+    </item>
+</selector>
